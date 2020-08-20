@@ -31,14 +31,14 @@ We recommend you create a dedicated folder for your Prime Tier 1 assignments. Ca
 
 ### 2 | Getting the assignment onto your computer
 
-[Watch this video on how to fork and clone](https://vimeo.com/218468543) the assignment into the *tier1* folder you created. You can also read the written instructions [here](extended-instructions.md) (look for Step 2). 
+[Watch this video on how to fork and clone](https://vimeo.com/218468543) the assignment into the *tier1* folder you created. You can also read the written instructions [here](extended-instructions.md) (look for Step 2).
 
 **Note:** The video may call the folder `prework`, but you can call your folder anything you want.
 
 ### 3 | Opening your assignment in Atom
 
 **Option 1: Command Line Instructions**
-1. In the Terminal, type `atom .` to open up your current directory in Atom. 
+1. In the Terminal, type `atom .` to open up your current directory in Atom.
 - If this doesn't work, take a look at [these instructions](https://stackoverflow.com/questions/22390709/how-to-open-atom-editor-from-command-line-in-os-x/23666354#23666354) to install this command.
 - Or, take a look at the "Install Shell Commands" section of the Atom document linked at the beginning of these instructions.
 
@@ -96,9 +96,9 @@ For step-by-step instructions, check out this week's video content or look [here
 #### 4.4 | Complete the checkpoints
 
 1. Show your instructors what you know! In the `checkpoints` folder, you will find a `terminal.txt` file.
-2. In the `terminal.txt` file, there are questions about the terminal, which we learned about in the video content for this week. Below each question, all you need to do is type your answer! If you're unsure, feel free to do some research, or write that you're not sure. All we're asking for is you try your best! 
+2. In the `terminal.txt` file, there are questions about the terminal, which we learned about in the video content for this week. Below each question, all you need to do is type your answer! If you're unsure, feel free to do some research, or write that you're not sure. All we're asking for is you try your best!
 
-### 5 | Hello World! 
+### 5 | Hello World!
 
 Our assignment also contains a `helloWorld.js` file. A "hello world" is a common first step in learning to code, and the first program many programmers write.
 
@@ -124,4 +124,3 @@ Watch the [detailed video instructions](https://vimeo.com/199694700). If needed,
 
 ### 8 | Answer Slack Discussion Question
 Make sure that you answer this week's Slack discussion question (found each week in the left sidebar of the Tier 1 site) in your cohort's Slack channel!
-
